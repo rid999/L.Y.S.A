@@ -1,6 +1,6 @@
 # L.Y.S.A - Sang Cyber-Asisten Pribadi Anda 🤖✨
 
-<img src="l.y.s.a.png" width="200" height="250" alt="Logo Lysa - Cyber Asisten">
+<img src="l.y.s.a.png" width="200" height="290" alt="Logo Lysa - Cyber Asisten">
 
 **L.Y.S.A (Loyal ইয়ং System Assistant)** hadir sebagai asisten AI desktop interaktif berbahasa Indonesia yang siap menemani hari-harimu! Mengusung estetika *cyber* yang futuristik, L.Y.S.A bukan hanya sekadar program, tapi juga representasi impian para *wibu* dan *lonewolf* untuk memiliki teman digital yang responsif dan penuh kejutan!
 
