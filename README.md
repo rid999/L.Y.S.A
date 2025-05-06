@@ -12,7 +12,7 @@
 * **😎 Persona yang Menarik:** L.Y.S.A dirancang dengan kepribadian yang hangat, empatis, dan selalu siap membantu. Sapaannya akan disesuaikan dengan waktu hari, membuat interaksi terasa lebih personal.
 * **⚙️ Status Visual yang Informatif:** Tombol mikrofon akan berubah warna untuk memberikan indikasi visual tentang status L.Y.S.A: siap (hijau), mendengarkan (merah), memproses/berbicara (biru).
 * **🖱️ Kontrol yang Intuitif:** Jendela L.Y.S.A dapat di-*drag* dengan mudah, dan ditutup dengan klik tombol atau klik kanan.
-* **👂 Auto-Listening Cerdas:** L.Y.S.A akan otomatis kembali mendengarkan setelah selesai berbicara atau dalam keadaan diam, ga seperti pacarmu yang cerewet. dia hanya balas saat anda ngomong.
+* **👂 Auto-Listening Cerdas:** L.Y.S.A akan otomatis kembali mendengarkan setelah selesai berbicara atau dalam keadaan diam, tidak seperti pacarmu yang cerewet. L.Y.S.A hanya membalas saat anda ingin bicara sesuatu.
 * **🚫 Filter Ucapan:** Ucapan kasar dan keyword terlarang di dalam tanda asterik (*) akan diabaikan, memberikan kenyamanan percakapan anda.
 
 ## ✨ Why L.Y.S.A is Your Ideal Digital Companion?
