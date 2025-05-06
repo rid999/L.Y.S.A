@@ -7,13 +7,13 @@
 ## 🚀 Capability - Apa yang Bisa L.Y.S.A Lakukan?
 
 * **🗣️ Interaksi Suara Dua Arah yang Natural:** Berkomunikasi dengan L.Y.S.A layaknya berbicara dengan teman! Tanyakan apa saja, dan dengarkan jawabannya dalam Bahasa Indonesia yang ramah dan informatif.
-* **🌦️ Informasi Cuaca Real-Time:** Ingin tahu kondisi cuaca terkini di Surabaya atau kota lainnya? L.Y.S.A siap memberikan laporan cuaca yang akurat dan *up-to-date*.
+* **🌦️ Informasi Cuaca Real-Time:** Ingin tahu kondisi cuaca terkini di kota kamu atau kota lainnya? L.Y.S.A siap memberikan laporan cuaca yang akurat dan *up-to-date*.
 * **🧠 Pengetahuan Umum yang Luas:** Didukung oleh kecerdasan AI terkini, L.Y.S.A memiliki pengetahuan yang luas tentang berbagai topik. Jangan ragu untuk menguji pengetahuannya!
 * **😎 Persona yang Menarik:** L.Y.S.A dirancang dengan kepribadian yang hangat, empatis, dan selalu siap membantu. Sapaannya akan disesuaikan dengan waktu hari, membuat interaksi terasa lebih personal.
 * **⚙️ Status Visual yang Informatif:** Tombol mikrofon akan berubah warna untuk memberikan indikasi visual tentang status L.Y.S.A: siap (hijau), mendengarkan (merah), memproses/berbicara (biru).
 * **🖱️ Kontrol yang Intuitif:** Jendela L.Y.S.A dapat di-*drag* dengan mudah, dan ditutup dengan klik tombol atau klik kanan.
-* **👂 Auto-Listening Cerdas:** L.Y.S.A akan otomatis kembali mendengarkan setelah selesai berbicara atau dalam keadaan diam, siap untuk perintah selanjutnya.
-* **🚫 Filter Ucapan:** Ucapan di dalam tanda asterik (*) akan diabaikan, memberikan fleksibilitas dalam perintah suara Anda.
+* **👂 Auto-Listening Cerdas:** L.Y.S.A akan otomatis kembali mendengarkan setelah selesai berbicara atau dalam keadaan diam, ga seperti pacarmu yang cerewet. dia hanya balas saat anda ngomong.
+* **🚫 Filter Ucapan:** Ucapan kasar dan keyword terlarang di dalam tanda asterik (*) akan diabaikan, memberikan kenyamanan percakapan anda.
 
 ## ✨ Why L.Y.S.A is Your Ideal Digital Companion?
 
